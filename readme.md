@@ -1,4 +1,4 @@
-开始阶段使用了别人的库，shout out to 嘉立创 ——> https://www.sz-jlc.com/consumer/index.do?s=1542678347765
+开始阶段使用了别人的库，shout out to 嘉立创 ——> https://www.sz-jlc.com/
 
 此数据库目标是仿照之前公司做一个物料管理系统，对现在混乱的状态做个整理，以提升后续大量开发工作的效率；
 
